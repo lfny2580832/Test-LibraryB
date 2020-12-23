@@ -28,6 +28,7 @@
 		0A2614CE2591FE7C006876DE /* libLibB.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libLibB.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A2614D12591FE7C006876DE /* LibB.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LibB.h; sourceTree = "<group>"; };
 		0A2614D22591FE7C006876DE /* LibB.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LibB.m; sourceTree = "<group>"; };
+		0A2614DB259322E1006876DE /* Script.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = Script.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		0A2614C52591FE7C006876DE = {
 			isa = PBXGroup;
 			children = (
+				0A2614DB259322E1006876DE /* Script.sh */,
 				0A2614D02591FE7C006876DE /* LibB */,
 				0A2614CF2591FE7C006876DE /* Products */,
 			);
