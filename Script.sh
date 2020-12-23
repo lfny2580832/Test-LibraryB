@@ -85,5 +85,3 @@ lipo -create "${DEVICE_DIR_A}" "${SIMULATOR_DIR_A}" -output "${INSTALL_DIR_A}"
 
 #删除build文件夹
 rm -rf "${build_DIR}"
-#打开目标文件夹
-open "${INSTALL_DIR}"
